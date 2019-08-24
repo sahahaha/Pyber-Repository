@@ -1,0 +1,2 @@
+1. The average fare is grouped around lower rates (Under $30) in urban areas. This is likely do to the higher amount of drivers in urban areas.
+2. Despite charging less, on average, urban areas bring in a larger percentage (62.7%) of total fares. 
